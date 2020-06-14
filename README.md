@@ -1,5 +1,5 @@
 # Stochastic-Gradient-Descent
-Intro to Machine Learning - Stochastic Gradient Descent Implementation
+CS155 Intro to Machine Learning - Stochastic Gradient Descent Implementation
 
 hw1_4c:
 
